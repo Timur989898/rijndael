@@ -10,6 +10,8 @@
  python setup.py test
 ```
 
+![tests](./tests.png)
+
 
 # Chaining Modes
 * MODE_ECB
