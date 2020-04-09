@@ -1,0 +1,17 @@
+*.pyc
+__pycache__
+MANIFEST
+dist/
+build/
+develop-eggs/
+*.egg
+*.egg-info/
+.Python
+eggs/
+.eggs/
+sdist/
+wheels/
+.installed.cfg
+.cache/*
+
+venv/*
