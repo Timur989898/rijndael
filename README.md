@@ -2,7 +2,7 @@
 
 # Usage
 ```bash
- pip install rijndael
+ git clone https://github.com/Timur989898/rijndael.git
 ```
 
 # Run tests
